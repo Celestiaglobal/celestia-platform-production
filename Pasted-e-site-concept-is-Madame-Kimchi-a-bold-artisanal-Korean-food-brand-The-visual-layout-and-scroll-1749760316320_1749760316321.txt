@@ -1,0 +1,65 @@
+e site concept is Madame Kimchi – a bold, artisanal Korean food brand.
+
+The visual layout and scrolling behaviour will mirror https://www.elpaso.dev.
+
+The code logic can apply high-level quantum web design principles (e.g., minimal UI, elegant animations, smooth transitions, spatial layering)—but nothing quantum is shown or mentioned on the site.
+
+✅ REPLIT PROMPT (FOR MADAME KIMCHI WEBSITE USING QUANTUM-INSPIRED WEB DESIGN)
+plaintext
+Copy
+Edit
+Build a responsive, one-page website for "Madame Kimchi" using Tailwind CSS, minimalist HTML, and JavaScript for subtle scroll animations. The layout and experience should replicate the feel and flow of https://www.elpaso.dev.
+
+Do not include any references to quantum science on the site itself, but use design logic inspired by high-level quantum principles: clean spatial hierarchy, wave-like motion in scroll animations, smooth transitions, and minimal aesthetic focus.
+
+Theme: Korean artisan food brand with bold identity. Products include:
+- Kimchi
+- Maple Gochujang Hot Sauce
+- Kimchi Seasoning
+
+Sections to include:
+
+1. **Hero Section**
+   - Full-screen background with softly animated particles or textured image (e.g. kimchi pattern or abstract fermentation)
+   - Bold title: "MADAME KIMCHI"
+   - Subtitle: "Korean Fermentation. Quebec Flavour."
+   - Button: [Discover Our Flavours] (scrolls to Products)
+
+2. **About Section**
+   - Simple centred text block:
+     “Rooted in Korean heritage. Crafted in Quebec.  
+     We ferment stories into flavour—one jar at a time.”
+
+3. **Products Section**
+   - Two-column layout:
+     Left: Product images (placeholder images ok)
+     Right: Text descriptions for:
+     - Classic Kimchi
+     - Maple Gochujang Hot Sauce
+     - Kimchi Seasoning Blend
+
+4. **Philosophy Section**
+   - Black background, serif font, centre-aligned:
+     “Fermentation is time.  
+     Time is love.  
+     Our jars are living proof.”
+
+5. **Footer / CTA**
+   - Final section:  
+     “Join our flavour journey.”  
+     Buttons for: [Shop Now], [Join Newsletter]
+
+Features:
+- Smooth scroll between sections
+- Fade-in animation on scroll
+- Fully mobile responsive
+- Use Tailwind’s best practices
+- Avoid external libraries except minimal JS for animation
+
+Output should include:  
+- `index.html`  
+- Tailwind setup  
+- `script.js` for animations  
+- `styles.css` (if any overrides needed)
+
+Design inspiration: Clean, poetic, modern Korean–Quebec fusion. Site must feel elegant, alive, and deeply rooted in i
